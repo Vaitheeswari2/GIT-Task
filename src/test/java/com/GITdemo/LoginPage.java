@@ -29,6 +29,11 @@ public class LoginPage {
 		System.out.println("Chennai");
 	}
 	
+	private void pincode() {
+		System.out.println("pincode");
+
+	}
+	
 
 	}
 
