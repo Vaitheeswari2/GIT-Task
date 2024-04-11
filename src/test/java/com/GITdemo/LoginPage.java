@@ -15,6 +15,14 @@ public class LoginPage {
 		System.out.println("Login");
 
 	}
+	private void doorno() {
+		System.out.println("17/25");
+
+	}
+	private void street() {
+		System.out.println("European Lane");
+
+	}
 
 	}
 
